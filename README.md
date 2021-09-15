@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DDuffour
-- 👀 I’m interested in WebGIS Remote Sensing and its Applications
+- 👀 I’m interested in WebGIS, Remote Sensing and its Applications
 - 🌱 I’m currently learning web mapping
 - 💞️ I’m looking to collaborate on projects related to GIS 
 - 📫 How to reach me duffour1000@gmail.com
